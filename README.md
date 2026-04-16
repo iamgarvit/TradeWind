@@ -15,16 +15,6 @@ This was initially made for CSE202 (Fundamentals of Database Management System) 
 <br><br>
 
 ---
-## 👥 Project Members
-
-- **Rishabh Jhakar**
-- **Saksham Arora**
-- **Garvit**
-- **Tanishq Goyal**
-
----
-
----
 
 ## Frameworks
 
@@ -222,6 +212,14 @@ After inserting the data you might want to run these files one-time:
 - Transaction history improvements (Pending/Executed/Canceled orders)
 - Mobile responsive UI improvements
 - Full deployment
+
+---
+## 👥 Project Members
+
+- **Rishabh Jhakar**
+- **Saksham Arora**
+- **Garvit**
+- **Tanishq Goyal**
 
 ---
 
